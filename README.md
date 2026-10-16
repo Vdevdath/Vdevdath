@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Devdath 👋
 
-<!--
-**Vdevdath/Vdevdath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate at Puducherry Technological University with an interest in software development, problem-solving, and building practical applications.
 
-Here are some ideas to get you started:
+I'm focused on strengthening my programming fundamentals, developing useful software projects, and exploring how cybersecurity principles can help create more secure and reliable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies I'm Working With
+
+- **Programming:** Java, Python, C, C++, C#
+- **Web Development:** HTML, CSS, JavaScript, JSP and Servlets
+- **Databases:** SQL, MySQL
+
+### 🎯 Current Focus
+
+- Improving my problem-solving and software development skills
+- Building practical projects and documenting them clearly
+- Strengthening my understanding of web development and database systems
+- Exploring cybersecurity and secure software development
+
+### 🌱 A Little More About Me
+
+I enjoy learning by building, experimenting with new technologies, and turning concepts into working applications. I'm always looking for opportunities to improve my technical skills and learn from real-world projects.
